@@ -8,9 +8,8 @@
 - Learning JavaScript properly (mid-way through fundamentals).
 - Working on real frontend basics: DOM, events, layout, structure.
 - Exploring Node.js from zero.
-- Learning Docker from zero.
 - Using macOS + Linux tools (CLI-first workflow).
-- Writing in: JavaScript, C++, Java, Python.
+- Writing in: JavaScript, Python.
 - Building small projects to solidify fundamentals.
 - Using Git/GitHub properly as I improve.
 
@@ -18,10 +17,9 @@
 
 ### Current Goals
 - [x] Finish core JavaScript (functions, DOM, events, async basics).
-- [x] Build 3 small frontend projects without copying.
-- [x] Learn Java Advanced 
+- [x] Build 3 small frontend projects without copying. 
 - [x] Understand Docker fundamentals (images, containers, commands).
-- [x] Understand Maven and learn Spring 
+- [x] Build a full-stack project connecting frontend + backend.
 - [x] Set up a clean, stable Linux dev environment.
 - [ ] Maintain consistent Git/GitHub habits.
 - [ ] Reduce tutorials and increase actual implementation.
